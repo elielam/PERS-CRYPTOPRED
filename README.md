@@ -1,7 +1,9 @@
 # Personal-CryptoPred
+
 Simple Blockfolio with trading api monitoring &amp; analyzing.
 
 # Architecture
+
 - Dashboard
   - Model
     - Class (Correspond to JSON Object)
@@ -12,8 +14,11 @@ Simple Blockfolio with trading api monitoring &amp; analyzing.
     - Component (JPanel)
     - Tabbed (JTabbedPanel)
     - Frame (JFrame)
+- Analyser
+- Parser
     
 # Context
+
 This app have three main functions.
 First a dashboard who permit the user to see some currency Exchange Rates, to consult markets Summary, a blockfolio who provide acces to your wallet (not real but view) and an Analyse screen who give us the result of mathematical equation of the second app package.
 The second app package analyse data from different trading api and provide trading pronostic.
